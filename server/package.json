@@ -1,0 +1,26 @@
+{
+  "name": "my-travel-journal-api",
+  "version": "1.0.0",
+  "description": "API ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TikYokoyama/My-Travel-Journal-API.git"
+  },
+  "author": "TikYokoyama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TikYokoyama/My-Travel-Journal-API/issues"
+  },
+  "homepage": "https://github.com/TikYokoyama/My-Travel-Journal-API#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.19",
+    "sequelize": "^6.21.4"
+  }
+}

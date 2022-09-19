@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/MyTravelJournal---React-/static/css/main.256a636f.css",
+    "main.js": "/MyTravelJournal---React-/static/js/main.3f69221d.js",
+    "static/js/787.d63bd0f0.chunk.js": "/MyTravelJournal---React-/static/js/787.d63bd0f0.chunk.js",
+    "static/media/kyoto.jpg": "/MyTravelJournal---React-/static/media/kyoto.1a6e25ac7519986e49d5.jpg",
+    "static/media/akihabara.jpg": "/MyTravelJournal---React-/static/media/akihabara.0a8c00026aaa83ece5af.jpg",
+    "static/media/paris.jpg": "/MyTravelJournal---React-/static/media/paris.ffd8def080a2c8d3b86c.jpg",
+    "static/media/aparecida.jpg": "/MyTravelJournal---React-/static/media/aparecida.a94d8d854aee8d6389c2.jpg",
+    "static/media/shibuya.jpg": "/MyTravelJournal---React-/static/media/shibuya.e477f061010d50ea8892.jpg",
+    "static/media/singapura.jpg": "/MyTravelJournal---React-/static/media/singapura.7029e8f0049194c1c189.jpg",
+    "static/media/madrid.jpg": "/MyTravelJournal---React-/static/media/madrid.48357482560189abe182.jpg",
+    "static/media/bariloche.jpg": "/MyTravelJournal---React-/static/media/bariloche.16bd5b67cf6a0265cf0c.jpg",
+    "static/media/barcelona.jpg": "/MyTravelJournal---React-/static/media/barcelona.754c2d6f8b90adae8412.jpg",
+    "static/media/hiroshima.jpg": "/MyTravelJournal---React-/static/media/hiroshima.9c25cb25edda33da91f7.jpg",
+    "static/media/inhotim.jpg": "/MyTravelJournal---React-/static/media/inhotim.9d4a8d56a95272798977.jpg",
+    "static/media/curitiba.jpg": "/MyTravelJournal---React-/static/media/curitiba.868bbaa4ac4e4953c37a.jpg",
+    "static/media/buenos aires.jpg": "/MyTravelJournal---React-/static/media/buenos aires.1a934efe0ea9b502c8dc.jpg",
+    "static/media/rio de janeiro.jpg": "/MyTravelJournal---React-/static/media/rio de janeiro.e04f44e2477fd402af46.jpg",
+    "static/media/miyajima.jpg": "/MyTravelJournal---React-/static/media/miyajima.6b11dd3f0107a556edc0.jpg",
+    "static/media/tokyo.jpg": "/MyTravelJournal---React-/static/media/tokyo.02d1965ac0d48ad96539.jpg",
+    "static/media/florida.jpg": "/MyTravelJournal---React-/static/media/florida.51c04299c7464f42cc0b.jpg",
+    "static/media/buffalo.jpg": "/MyTravelJournal---React-/static/media/buffalo.9e01834a44e73c108521.jpg",
+    "static/media/fujiyoshida.jpg": "/MyTravelJournal---React-/static/media/fujiyoshida.b3c82a1e3839e24d109e.jpg",
+    "static/media/new york.jpg": "/MyTravelJournal---React-/static/media/new york.e6a522f55d43f412c39c.jpg",
+    "static/media/globe.png": "/MyTravelJournal---React-/static/media/globe.e4c1cb6b5149ac77f2d4.png",
+    "index.html": "/MyTravelJournal---React-/index.html",
+    "main.256a636f.css.map": "/MyTravelJournal---React-/static/css/main.256a636f.css.map",
+    "main.3f69221d.js.map": "/MyTravelJournal---React-/static/js/main.3f69221d.js.map",
+    "787.d63bd0f0.chunk.js.map": "/MyTravelJournal---React-/static/js/787.d63bd0f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.256a636f.css",
+    "static/js/main.3f69221d.js"
+  ]
+}

@@ -1,0 +1,99 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+nav{
+  background-color: #F55A5A;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+nav i{
+  color: white;
+  padding: 10px;
+}
+
+nav h3{
+  color: white;
+}
+
+.card{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.card--img{
+  max-height: 200px;
+  width: 150px;
+  border-radius: 30px;
+}
+
+.card--infos{
+  display: flex;
+  flex-direction: column;
+}
+.card--infos, h2, h3{
+  margin: 10px 15px;
+}
+
+span i{
+  color: #F55A5A;
+}
+
+.card--linkG{
+  color: grey;
+}
+
+.card--placeInfo{
+  margin: 10px 15px;
+  max-width: 500px;
+  text-align: justify;
+}
+
+.card--location{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 15px;
+  flex-wrap: wrap;
+}
+.location--left{
+  display: flex;
+  flex-direction: row;
+}
+
+.card--location i, p , a{
+  display: flex;
+  align-items: center;
+  margin-right:10px;
+}
+
+hr{
+  width: 90%;
+  background-color: #F55A5A;
+}
+
+@media screen and (max-width: 480px) {
+  .card{
+    flex-wrap: wrap;
+  }
+  .card--location{
+    justify-content: center;
+  }
+  .card--text{
+    justify-content: center;
+  }
+  .card--placeInfo{
+    max-width: 350px;
+    /* text-align: justify; */
+  }
+} 
