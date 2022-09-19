@@ -1,6 +1,6 @@
 ## My Travel Journal
 
-<img align="right" width="400" height="700" src="/docs/mytraveljounal.jpeg">
+<img align="right" width="700"  src="/docs/mytraveljounal.jpeg">
 
 O projeto foi para um estudo em React.js, no qual foi desenvolvido um site onde o usuário possa listar suas viagens, servindo como um diário. 
 Com o intuito de ser uma aplicação completa foi desenvolvido também uma API em Node.js, para que o usuário pudesse sempre estar atualizando sua lista!
